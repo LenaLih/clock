@@ -13,12 +13,12 @@ button {
    font-size: 16px;
    font-family: Russo;
 }
-.clock-case {
+.clockCase {
    display: flex;
    justify-content: center;
    
 }
-.button-case {
+.buttonCase {
    display: flex;
    justify-content: center;
 }
